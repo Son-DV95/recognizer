@@ -1,0 +1,1417 @@
+{
+    "pages": [
+        {
+            "name": "step1",
+            "label": "A",
+            "questions": [
+                {
+                    "key": "question_001",
+                    "label": "非常にたくさんの仕事をしなければならない",
+                    "order": 1,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_002",
+                    "label": "時間内に仕事が処理しきれない",
+                    "order": 2,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_003",
+                    "label": "一生懸命働かなければならない",
+                    "order": 3,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_004",
+                    "label": "かなり注意を集中する必要がある",
+                    "order": 4,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_005",
+                    "label": "高度の知識や技術が必要なむずかしい仕事だ",
+                    "order": 5,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_006",
+                    "label": "勤務時間中はいつも仕事のことを考えていなければならない",
+                    "order": 6,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_007",
+                    "label": "からだを大変よく使う仕事だ",
+                    "order": 7,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_008",
+                    "label": "自分のペースで仕事ができる",
+                    "order": 8,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_009",
+                    "label": "自分で仕事の順番・やり方を決めることができる",
+                    "order": 9,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_010",
+                    "label": "職場の仕事の方針に自分の意見を反映できる",
+                    "order": 10,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_011",
+                    "label": "能や知識を仕事で使うことが少ない",
+                    "order": 11,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_012",
+                    "label": "部署内で意見のくい違いがある",
+                    "order": 12,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_013",
+                    "label": "私の部署と他の部署とはうまが合わない",
+                    "order": 13,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_014",
+                    "label": "私の職場の雰囲気は友好的である",
+                    "order": 14,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_015",
+                    "label": "私の職場の作業環境（騒音、照明、温度、換気など）はよくない",
+                    "order": 15,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_016",
+                    "label": "仕事の内容は自分にあっている",
+                    "order": 16,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_017",
+                    "label": "働きがいのある仕事だ",
+                    "order": 17,
+                    "options": [
+                        {
+                            "key": "そうだ",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあそうだ",
+                            "value": "2"
+                        },
+                        {
+                            "key": "ややちがう",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ちがう",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                }
+            ],
+            "description": "あなたの仕事についてうかがいます。最もあてはまるものをお選びください。"
+        },
+        {
+            "name": "step2",
+            "label": "B",
+            "questions": [
+                {
+                    "key": "question_018",
+                    "label": "活気がわいてくる",
+                    "order": 18,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_019",
+                    "label": "元気がいっぱいだ",
+                    "order": 19,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_020",
+                    "label": "生き生きする",
+                    "order": 20,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_021",
+                    "label": "怒りを感じる",
+                    "order": 21,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_022",
+                    "label": "内心腹立たしい",
+                    "order": 22,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_023",
+                    "label": "イライラしている",
+                    "order": 23,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_024",
+                    "label": "ひどく疲れた",
+                    "order": 24,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_025",
+                    "label": "へとへとだ",
+                    "order": 25,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_026",
+                    "label": "だるい",
+                    "order": 26,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_027",
+                    "label": "気がはりつめている",
+                    "order": 27,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_028",
+                    "label": "不安だ",
+                    "order": 28,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_029",
+                    "label": "落着かない",
+                    "order": 29,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_030",
+                    "label": "ゆううつだ",
+                    "order": 30,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_031",
+                    "label": "何をするのも面倒だ",
+                    "order": 31,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_032",
+                    "label": "物事に集中できない",
+                    "order": 32,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_033",
+                    "label": "気分が晴れない",
+                    "order": 33,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_034",
+                    "label": "仕事が手につかない",
+                    "order": 34,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_035",
+                    "label": "悲しいと感じる",
+                    "order": 35,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_036",
+                    "label": "めまいがする",
+                    "order": 36,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_037",
+                    "label": "体のふしぶしが痛む",
+                    "order": 37,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_038",
+                    "label": "頭が重かったり頭痛がする",
+                    "order": 38,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_039",
+                    "label": "首筋や肩がこる",
+                    "order": 39,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_040",
+                    "label": "腰が痛い",
+                    "order": 40,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_041",
+                    "label": "目が疲れる",
+                    "order": 41,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_042",
+                    "label": "動悸や息切れがする",
+                    "order": 42,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_043",
+                    "label": "胃腸の具合が悪い",
+                    "order": 43,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_044",
+                    "label": "食欲がない",
+                    "order": 44,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_045",
+                    "label": "便秘や下痢をする",
+                    "order": 45,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_046",
+                    "label": "よく眠れない",
+                    "order": 46,
+                    "options": [
+                        {
+                            "key": "ほとんどなかった",
+                            "value": "1"
+                        },
+                        {
+                            "key": "ときどきあった",
+                            "value": "2"
+                        },
+                        {
+                            "key": "しばしばあった",
+                            "value": "3"
+                        },
+                        {
+                            "key": "ほとんどいつもあった",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                }
+            ],
+            "description": "最近 1 か月間のあなたの状態についてうかがいます。最もあてはまるものをお選びください。"
+        },
+        {
+            "name": "step3",
+            "label": "C",
+            "questions": [
+                {
+                    "key": "question_47",
+                    "label": "上司",
+                    "order": 47,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_48",
+                    "label": "職場の同僚",
+                    "order": 48,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_49",
+                    "label": "配偶者、家族、友人等",
+                    "order": 49,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_50",
+                    "label": "上司",
+                    "order": 50,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_51",
+                    "label": "職場の同僚",
+                    "order": 51,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_52",
+                    "label": "配偶者、家族、友人等",
+                    "order": 52,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_53",
+                    "label": "上司",
+                    "order": 53,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_54",
+                    "label": "職場の同僚",
+                    "order": 54,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_55",
+                    "label": "配偶者、家族、友人等",
+                    "order": 55,
+                    "options": [
+                        {
+                            "key": "非常に",
+                            "value": "1"
+                        },
+                        {
+                            "key": "かなり",
+                            "value": "2"
+                        },
+                        {
+                            "key": "多少",
+                            "value": "3"
+                        },
+                        {
+                            "key": "全くない",
+                            "value": "4"
+                        }
+                    ],
+                    "required": true,
+                    "controlType": "radiogroup"
+                }
+            ],
+            "description": "最近 1 か月間のあなたの状態についてうかがいます。最もあてはまるものをお選びください。"
+        }
+    ],
+    "title": "ストレス診断",
+    "endLabel": "完了",
+    "thankyou": "アンケートにご協力いただきありがとうございました。"
+}
