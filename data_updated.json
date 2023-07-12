@@ -1,0 +1,1049 @@
+{
+    "pages": [
+        {
+            "name": "step1",
+            "label": "性格診断",
+            "questions": [
+                {
+                    "key": "question_001",
+                    "group": "2",
+                    "label": "人の良い面を見つける事が得意だ",
+                    "order": 1,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_002",
+                    "group": "5",
+                    "label": "アートや音楽などに関心があまりない",
+                    "order": 2,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_003",
+                    "group": "4",
+                    "label": "憂うつになったり、落ち込んだりしやすい",
+                    "order": 3,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_004",
+                    "group": "4",
+                    "label": "不安や恐れを感じることはめったにない",
+                    "order": 4,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_005",
+                    "group": "4",
+                    "label": "感情的になりやすい",
+                    "order": 5,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_006",
+                    "group": "2",
+                    "label": "他人の欠点が目につきやすい",
+                    "order": 6,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_007",
+                    "group": "3",
+                    "label": "だらだらと過ごし、なかなか作業に取り掛かれない",
+                    "order": 7,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_008",
+                    "group": "5",
+                    "label": "自分はクリエイティブな方で新しいアイディアを思いつく",
+                    "order": 8,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_009",
+                    "group": "3",
+                    "label": "手際よく作業し、物事を最後までやり遂げるほうだ",
+                    "order": 9,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_010",
+                    "group": "1",
+                    "label": "自分は人の指示に従う方が楽だと思う",
+                    "order": 10,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_011",
+                    "group": "5",
+                    "label": "創造性がほとんどない",
+                    "order": 11,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_012",
+                    "group": "3",
+                    "label": "几帳面であり、規則正しい方が好きだ",
+                    "order": 12,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_013",
+                    "group": "2",
+                    "label": "やや冷めていて思いやりに欠けることがある",
+                    "order": 13,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_014",
+                    "group": "5",
+                    "label": "新しい知識を得ることにほとんど関心がない",
+                    "order": 14,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_015",
+                    "group": "4",
+                    "label": "多くの悩みごとを抱えている",
+                    "order": 15,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_016",
+                    "group": "3",
+                    "label": "いつも周りから頼られる方だ",
+                    "order": 16,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_017",
+                    "group": "4",
+                    "label": "よく悲しい気分になる",
+                    "order": 17,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_018",
+                    "group": "1",
+                    "label": "あまり自分から会話をしない",
+                    "order": 18,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_019",
+                    "group": "5",
+                    "label": "色々な物事に対する好奇心が強い",
+                    "order": 19,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_020",
+                    "group": "1",
+                    "label": "他の人と比べてアクティブではない",
+                    "order": 20,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_021",
+                    "group": "1",
+                    "label": "他人と交流をすることが苦ではなく、社交的である",
+                    "order": 21,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_022",
+                    "group": "1",
+                    "label": "積極的に自分の考えを主張する方だ",
+                    "order": 22,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_023",
+                    "group": "2",
+                    "label": "他人を見下したような考えが浮かぶことがよくある",
+                    "order": 23,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_024",
+                    "group": "2",
+                    "label": "礼儀正しく、他人に敬意をもって接する",
+                    "order": 24,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_025",
+                    "group": "3",
+                    "label": "乱雑なものはそのままにしておく事が多い",
+                    "order": 25,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_026",
+                    "group": "3",
+                    "label": "不注意なところがある",
+                    "order": 26,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "required": true,
+                    "reversal": true,
+                    "controlType": "radiogroup"
+                },
+                {
+                    "key": "question_027",
+                    "group": "2",
+                    "label": "人に対して思いやりを持って接する事が出来る",
+                    "order": 27,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_028",
+                    "label": "簡単には取り乱さず、気持ちが安定している",
+                    "order": 28,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_029",
+                    "group": "1",
+                    "label": "積極的に感情を表に出したりする方だ",
+                    "order": 29,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                },
+                {
+                    "key": "question_030",
+                    "group": "5",
+                    "label": "芸術、音楽、文学などに良く触れ、味わう",
+                    "order": 30,
+                    "options": [
+                        {
+                            "key": "全くあてはまらない",
+                            "value": "1"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "2"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまらない",
+                            "value": "3"
+                        },
+                        {
+                            "key": "どちらかといえばあてはまる",
+                            "value": "4"
+                        },
+                        {
+                            "key": "まあまああてはまる",
+                            "value": "5"
+                        },
+                        {
+                            "key": "非常によくあてはまる",
+                            "value": "6"
+                        }
+                    ],
+                    "controlType": "radiogroup",
+                    "required": true
+                }
+            ]
+        }
+    ],
+    "title": "性格診断テスト",
+    "endLabel": "完了",
+    "thankyou": "アンケートにご協力いただきありがとうございました。",
+    "description": [
+        "【案１】ここ数日の自分を説明するとしたら、以下のことはご自身にどの程度当てはまるでしょうか。該当する数字お選びください。",
+        "【案２】いまのご自身について、以下のことはご自身にどの程度当てはまるでしょうか。該当する数字をお選びください。"
+    ]
+}
